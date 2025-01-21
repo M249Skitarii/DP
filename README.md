@@ -18,21 +18,21 @@ Est utilisé dans le module Comportement.
 #### 4) Singleton:
 Les différentes Stratégies sont des singletons.
 
-#### 6) Façade:
+#### 5) Façade:
 Une classe Facade qui construit toute l'histoire!
 
-#### 7) Observateur:
+#### 6) Observateur:
 Dans le module Observateur.
 Il y en a 2, un qui sert juste à mettre des espaces et un autre qui envoit des messages définis dans les fonctions.
 
-#### 9) Fabrique Abstraite:
+#### 7) Fabrique Abstraite:
 Utilisé dans la Fabrique des Nodes. Elle se trouve dans le module Fabriques. des Fabriques dans une Fabrique dans une Fabrique!
 
-#### 10) Patron de Méthode:
+#### 8) Patron de Méthode:
 Il y en a un petit dans "Humain". 
 
-#### 11) Iterator:
+#### 9) Iterator:
 Il n'a aucune raison d'être là... du coup je lui ai ajouté une fonctionnalité dans son next()... c'est pas bien. Mais c'était triste de le voir là tout seul...
 
-#### Composite:
+#### 10) Composite:
 Les Groupes sont des composites composé de NODES. Le tout forme une structure de l'école.
