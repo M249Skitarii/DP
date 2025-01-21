@@ -6,32 +6,32 @@ Un projet pour tout les patterns!
 
 ## Patterns
 
-#### Adaptateur:
+#### 1) Adaptateur:
 Il est dans le module MODEL, un alien s'est infiltré dans l'école?
 
-#### Méthode de Fabrique:
+#### 2) Méthode de Fabrique:
 On la trouve dans l'interface Node. Elle permet de construire l'école.
 
-#### Strategie: 
+#### 3) Strategie: 
 Est utilisé dans le module Comportement.
 
-#### Singleton:
+#### 4) Singleton:
 Les différentes Stratégies sont des singletons.
 
-#### Façade:
+#### 6) Façade:
 Une classe Facade qui construit toute l'histoire!
 
-#### Observateur:
+#### 7) Observateur:
 Dans le module Observateur.
 Il y en a 2, un qui sert juste à mettre des espaces et un autre qui envoit des messages définis dans les fonctions.
 
-#### Fabrique Abstraite:
-Utilisé dans la Fabrique des Nodes. Elle se trouve dans le module Fabriques.
+#### 9) Fabrique Abstraite:
+Utilisé dans la Fabrique des Nodes. Elle se trouve dans le module Fabriques. des Fabriques dans une Fabrique dans une Fabrique!
 
-#### Patron de Méthode:
+#### 10) Patron de Méthode:
 Il y en a un petit dans "Humain". 
 
-#### Iterator:
+#### 11) Iterator:
 Il n'a aucune raison d'être là... du coup je lui ai ajouté une fonctionnalité dans son next()... c'est pas bien. Mais c'était triste de le voir là tout seul...
 
 #### Composite:
