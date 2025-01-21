@@ -31,6 +31,7 @@ public class Etudiant extends Human{
     }
 
     public void setComportement(Strategie comportement) {
+        notifierTous(" #[STRATEGIE] comportement changé? Mais quel est cette magie!?");
         this.comportement = comportement;
     }
 }
